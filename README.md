@@ -1,5 +1,5 @@
 # frontend-mentor-challenges
-My solutions to the Frontend Mentor challenges @ frontendmentor.io
+My solutions to the Frontend Mentor [challenges](https://www.frontendmentor.io/challenges)
 
 ## Table of Contents
 
