@@ -11,8 +11,8 @@
 
 ## Blog Preview Card <a name="blog-preview-card"></a>
 
-👾[Github Repo](https://github.com/UnionPAC/blog-preview-card)
-🔗[Demo](https://unionpac.github.io/blog-preview-card/)
+👾 [Github](https://github.com/UnionPAC/blog-preview-card)
+🔗 [Demo](https://unionpac.github.io/blog-preview-card/)
 
 #### Brief Description
 A blog preview card component built using only HTML & CSS.
@@ -22,7 +22,7 @@ A blog preview card component built using only HTML & CSS.
 ---------------------------------------------------------------------------------
 ## Project 2: FAQ Accordion <a name="faq-accordion"></a>
 
-👾[Github Repo](https://github.com/UnionPAC/faq-accordion)
+👾 [Github](https://github.com/UnionPAC/faq-accordion)
 
 #### Brief Description
 
