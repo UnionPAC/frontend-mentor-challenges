@@ -19,7 +19,7 @@ A blog preview card component built using only HTML & CSS.
 
 ### Screenshots
 
-![Blog Preview Card Component Screenshot](/images/blog-preview-card.png")
+![Blog Preview Card Component Screenshot](./images/blog-preview-card.png")
 
 ---------------------------------------------------------------------------------
 ## Project 2: FAQ Accordion <a name="faq-accordion"></a>
