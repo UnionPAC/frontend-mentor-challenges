@@ -1,5 +1,4 @@
 # frontend-mentor-challenges
-My solutions to the Frontend Mentor [challenges](https://www.frontendmentor.io/challenges)
 
 👋 Welcome to my solutions to the Frontend Menotor [challenges](https://www.frontendmentor.io/challenges)
 ---------------------------------------------------------------------------------
