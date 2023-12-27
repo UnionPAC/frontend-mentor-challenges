@@ -14,7 +14,7 @@
 - 👾 [Github](https://github.com/UnionPAC/blog-preview-card)
 - 🔗 [Demo](https://unionpac.github.io/blog-preview-card/)
 
-#### Brief Description
+#### Project Description
 A blog preview card component built using only HTML & CSS.
 
 ### Screenshots
@@ -24,7 +24,7 @@ A blog preview card component built using only HTML & CSS.
 
 - 👾 [Github](https://github.com/UnionPAC/faq-accordion)
 
-#### Brief Description
+#### Project Description
 
 ### Screenshots
 
