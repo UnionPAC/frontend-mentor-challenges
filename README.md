@@ -5,7 +5,7 @@
 ## Table of Contents
 
 1. [Blog Preview Card](#blog-preview-card)
-2. [Project 2: Movie Seat Booking](#faq-accordion)
+2. [FAQ Accordion](#faq-accordion)
 
 ---------------------------------------------------------------------------------
 
