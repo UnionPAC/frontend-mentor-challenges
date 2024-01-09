@@ -29,7 +29,7 @@ A blog preview card component built using only HTML & CSS.
 
 #### Project Description
 A FAQ Accordion component built using HTML, CSS and JavaScript. 
-Includes keyboard accessibility funtionality for navigating the accordion using on the keyboard.
+Includes keyboard accessibility funtionality for navigating the accordion using only the keyboard.
 
 ### Screenshots
 
