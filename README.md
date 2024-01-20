@@ -1,7 +1,3 @@
-# frontend-mentor-challenges
-
-👋 Welcome to my solutions to the Frontend Mentor [challenges](https://www.frontendmentor.io/challenges)
----------------------------------------------------------------------------------
 ## Table of Contents
 
 1. [Blog Preview Card](#blog-preview-card)
